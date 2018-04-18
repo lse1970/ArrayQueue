@@ -10,6 +10,7 @@ public class ArrayQueue {
 		deQueue();
 		deQueue();
 		deQueue();
+		deQueue();
 
 	}
 	static void enQueue(char data) {
