@@ -21,8 +21,6 @@ public class ArrayQueue2 {
 	  printQueue();
 	  enQueue('E');
 	  printQueue();
-	  deQueue();
-	  printQueue();
 	 }
 	 static void enQueue(char data) {
 	  queue[++rear] = data;
